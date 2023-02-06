@@ -45,4 +45,11 @@ I bring with me: strong analytical skills, a high degree of rigor and pay close 
 
 ---
 
+Links to completed work:
+[SQL](https://github.com/Viktroria94/SQL-Queries)
+[Postman](https://github.com/Viktroria94/Postman-Collections)
+[BugReports](https://github.com/Viktroria94/Bug-Reports)
+[Test-Suites-and-Test-Cases](https://github.com/Viktroria94/Test-Suites-and-Test-Cases)
+[Checklist](https://github.com/Viktroria94/Checklist)
+
 
