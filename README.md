@@ -4,7 +4,7 @@
 
 ---
 
-### :man_technologist: About me:
+### <h2 align= "center"> :man_technologist: About me: </h2> 
 
 I’m a trained qualified and motivated test analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> . I am currently seeking an opportunity to develop further and wider QA testing.  
 I bring with me: strong analytical skills, a high degree of rigor and pay close attention to details, the ability to learn independently and quickly, thoroughly, experience with data visualization tools, resistance to pressure, good inter-personal skills, strong verbal and written communication skills.
@@ -14,7 +14,7 @@ I bring with me: strong analytical skills, a high degree of rigor and pay close 
 
 ---
 
-### 🤝 Social media:
+### <h2 align= "center"> 🤝 Social media: </h2> 
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/viktoria-ivanova-a82868183/" target="_blank">
@@ -27,7 +27,7 @@ I bring with me: strong analytical skills, a high degree of rigor and pay close 
 
 ---
 
-### 💻 Languages and Tools:
+### <h2 align= "center"> 💻 Languages and Tools: </h2>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
@@ -45,7 +45,8 @@ I bring with me: strong analytical skills, a high degree of rigor and pay close 
 
 ---
 
-### Links to completed work:
+### <h2 align= "center">  Links to completed work: </h2>
+
 [SQL](https://github.com/Viktroria94/SQL-Queries)
 
 [Postman](https://github.com/Viktroria94/Postman-Collections)
