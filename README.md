@@ -1,5 +1,4 @@
-<h1 align= "center">Hi!👋</h1>
-<h2 align= "center">Thanks for visiting my profile!</h2>
+<h1 align= "center">Hi!👋 Thanks for visiting my profile!</h1>
 <h2 align= "center">I'm Viktoria</h2>
 <h2 align= "center">QA MANUAL ENGINEER</h2> 
 
@@ -23,8 +22,13 @@ Technical Skills:
 - Bug Tracking: JIRA, YouTrack.
 - Tools & Applications: TestRail, GitHub, Zoom, Notepad ++, Slack.
 
+---
 
- :mailbox: <h2>Contact me 🤝: 
+### [Link to my CV](https://drive.google.com/file/d/1syv5zH7xYynVrHOle2cfyHQ6qPfdQm4V/view)
+
+---
+
+  <h2>Contact me 🤝: 
  
   <div id="badges">
     <a href="mailto:malenbkaja94@gmail.com" target="_blank">
@@ -64,10 +68,14 @@ Technical Skills:
 * [Warehouse management project](https://github.com/Viktroria94/Warehouse-management-project)
 
 * [Mobile project app "Theory"](https://github.com/Viktroria94/Mobile-project-app-Theory)
+ 
+* [WEB project ArtSeeKati](https://github.com/Viktroria94/WEB-project-ArtSeeKati)
 
 * [SQL](https://github.com/Viktroria94/SQL-Queries)
 
 * [Checklists](https://github.com/Viktroria94/Checklists)
+ 
+
 
 
 
