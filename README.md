@@ -68,7 +68,9 @@ Technical Skills:
 
 * [SQL](https://github.com/Viktroria94/SQL-Queries)
 
-* [Test-Suites-and-Test-Cases](https://github.com/Viktroria94/Test-Suites-and-Test-Cases)
+* [Checklists](https://github.com/Viktroria94/Checklists)
+
+
 
 
 
