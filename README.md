@@ -24,16 +24,17 @@ Technical Skills:
 - Tools & Applications: TestRail, GitHub, Zoom, Notepad ++, Slack.
 
 
-- :mailbox: Contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:malenbkaja94@gmail.com)
-
----
-
-### <h2 align= "center"> 🤝 Social media: </h2> 
-
+ :mailbox: <h2>Contact me 🤝: 
+ 
   <div id="badges">
+    <a href="mailto:malenbkaja94@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" width="70" height="40" alt="linkedin" />
+    </a>
+ 
     <a href="https://www.linkedin.com/in/viktoria-ivanova-a82868183/" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="linkedin" />
     </a>
+ 
     <a href="https://www.facebook.com/viktoria.ivanova.7965/" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-plain.svg" width="40" height="40" alt="facebook" />
   </a>
