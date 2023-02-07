@@ -1,4 +1,5 @@
-<h1 align= "center">Hi there👋</h1>
+<h1 align= "center">Hi!👋</h1>
+<h2 align= "center">Thanks for visiting my profile!</h2>
 <h2 align= "center">I'm Viktoria</h2>
 <h2 align= "center">QA MANUAL ENGINEER</h2> 
 
@@ -6,8 +7,21 @@
 
 ### <h2 align= "center"> :man_technologist: About me: </h2> 
 
-I’m a trained qualified and motivated test analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> . I am currently seeking an opportunity to develop further and wider QA testing.  
-I bring with me: strong analytical skills, a high degree of rigor and pay close attention to details, the ability to learn independently and quickly, thoroughly, experience with data visualization tools, resistance to pressure, good inter-personal skills, strong verbal and written communication skills.
+I’m a trained qualified and motivated test analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> .  
+ A graduate of the QA course Technion - Israel Institute of Technology
+- Experienced in writing test documentation (STP, STD, STR).
+- Good understanding of QA methodologies (Agile, Waterfall).
+- Basic Knowledge and experience in   HTML  and CSS .
+- Good Knowledge of SQL  queries (Join level).
+- Working with the following test management tools: TestRail, JIRA, YouTrack, Monday
+- Experience with Web (Chrome, Edge) & Mobile (iOS, Android) testing.
+- Good Knowledge of Excel, and Google Docs.
+
+Technical Skills:
+- Platform: Windows, Mobile (iOS, Android OS). GitHub, Zoom, Notepad ++.
+- Programming: SQL, HTML, CSS.
+- Bug Tracking: JIRA, YouTrack.
+- Tools & Applications: TestRail, GitHub, Zoom, Notepad ++, Slack.
 
 
 - :mailbox: Contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:malenbkaja94@gmail.com)
@@ -48,15 +62,15 @@ I bring with me: strong analytical skills, a high degree of rigor and pay close 
 
 ### <h2 align= "center">  Links to completed work: </h2>
 
-[SQL](https://github.com/Viktroria94/SQL-Queries)
+* [Warehouse management project](https://github.com/Viktroria94/Warehouse-management-project)
 
-[Postman](https://github.com/Viktroria94/Postman-Collections)
+* [Mobile project app "Theory"](https://github.com/Viktroria94/Mobile-project-app-Theory)
 
-[BugReports](https://github.com/Viktroria94/Bug-Reports)
+* [SQL](https://github.com/Viktroria94/SQL-Queries)
 
-[Test-Suites-and-Test-Cases](https://github.com/Viktroria94/Test-Suites-and-Test-Cases)
+* [Test-Suites-and-Test-Cases](https://github.com/Viktroria94/Test-Suites-and-Test-Cases)
 
-[Checklist](https://github.com/Viktroria94/Checklist)
+
 
 
 
